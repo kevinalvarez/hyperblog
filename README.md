@@ -13,6 +13,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
 * Agregamos línea para módulo de cherry-pick
-* Agrego línea adicional apra módulo de cherry-pick
+* Agrego línea adicional para módulo de cherry-pick
+* Agrego tercera línea para el módulo de cherry-pick
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
